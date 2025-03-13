@@ -21,5 +21,7 @@ Here are some ideas to get you started:
 - 🤖 I am also interested in software development, with much experience in Python, C++, and ROOT.
 - 📝 A copy of [my Curricular Vitae](CV-chiwang.pdf) is available in this repository. It should be updated regularly, but in case it is not, please feel free to contact me at [`chi.w@cern.ch`](chi.w@cern.ch) for the latest version.
 - 🧐 As of now (Mar. 2025), I am still exploring PhD position possibilities in experimental high energy physics starting from Fall 2026. If you are interested in my profile, please feel free to contact me at my email.
-
-> View full [`README-all.md`](README-all.md)
+- ⚡️ Some fun facts:
+    - I am a big fan of classical music, especially the works of Tchaikovsky, Rachmaninov and Mahler.
+    - I am also a big fan of civil aviation and other means of transportation. I am currently leading the Tsinghua University Students Transportation Association, a students' club of transportation enthusiasts. 
+> View a perhaps "more verbose" version: [`README-all.md`](README-all.md)

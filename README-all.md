@@ -54,3 +54,13 @@ Here are some ideas to get you started:
 > Speaking of CV and CI/CD, you might have noticed that I am participating in the [CMS Tier-0 Software](https://github.com/dmwm/t0) development. My job now is reconstructing a CI/CD workflow for the software, using Github Webhook and CMS Jenkins, with the help of @cmsbot . I am working under the supervision of [Dr. Jan Eysermans](https://inspirehep.net/authors/1417176) (@jeyserma on GitHub).
 
 🧐 As of now (Mar. 2025), I am still exploring PhD position possibilities in experimental high energy physics starting from Fall 2026. If you are interested in my profile, please feel free to contact me at my email.
+
+⚡️ Some fun facts:
+- I am a big fan of classical music, especially the works of Tchaikovsky, Rachmaninov and Mahler.
+
+> I remember celebrating my 20th birthday with a Mahler Symphony No. 3 concert in Beijing, at the NCPA. I booked myself a 3rd-row seat and almost cried towards the end of the concert.
+
+- I am also a big fan of civil aviation and other means of transportation.
+
+> I am currently leading the Tsinghua University Students Transportation Association, a students' club of transportation enthusiasts. I once played an active role back in the students' union, but I enjoy more creating opprotunities for our members to explore the world of transportation.
+
