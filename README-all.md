@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 > Ugh... A short remark about my name. In Chinese, we usually put the family name first, so I am called "王驰(Wáng Chí, more strictly written in pinyin with tone marks)".
 >
-> As a literal translation, my family name "王(Wáng)" means "king" or "monarch" and the given name "驰(Chí)" means "swift" or "fast" (given the horse radical "马" in the character, "gallop" might be a more accurate translation). This given name bears my father's hope that I can gallop through life with speed.
+> As a literal translation, my family name "王(Wáng)" means "king" or "monarch" and the given name "驰(Chí)" means "swift" or "fast" (given the horse ("马") radical in the character, "gallop" might be a more accurate translation). This given name bears my father's hope that I can gallop through life with speed.
+>
+> My family name "王(Wáng)" is shared by more than 100 million people in China, making it among the most common family names in the country. My full name is not that common apparently, yet is still shared by some 6000 people.
 >
 > Pronuouncing "Chi" is a bit tricky. It is like the "chi" in "chicken", but with a shorter "i" sound. The tone matters in Chinese. Luckily, two characters in my name have the same tone of the second tone. Just remember to make the second syllable sound like a question, and you will be fine.
 >
